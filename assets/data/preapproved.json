@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ali Khan",
+    "cnic": "12345-6789012-3",
+    "purpose": "Family Visit",
+    "residentHost": "Mr. Ahmed (A-101)"
+  },
+  {
+    "name": "Sana Javed",
+    "cnic": "54321-1234567-8",
+    "purpose": "Meeting",
+    "residentHost": "Ms. Fatima (B-204)"
+  }
+]
