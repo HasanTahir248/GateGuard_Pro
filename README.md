@@ -1,4 +1,4 @@
-# Smart Visitor Management System 📱
+# Gate Guard Pro System 📱
 
 A cross-platform visitor management app built with Flutter. This project is a comprehensive example of how to build a scalable and maintainable application using a clean **MVVM architecture**, **Riverpod** for state management, and a **Feature-First** folder structure.
 
